@@ -1,8 +1,6 @@
-[![MasterHead](https://giphy.com/gifs/salesforce-transparent-dreamforce-dreamforce23-dreamforce2023-df23-salesforce-xIzvZemG9B4kWd80CF)]
+
 <h1 align="center">Hi 👋, I'm Nirajan Singh</h1>
 <h3 align="center">A passionate frontend developer and a Salesforce Devloper from India</h3>
-<img align="right" alt="coding" width="400" src="[https://giphy.com/gifs/salesforce-rockstar-rock-on-trailblazer-16BxVZ4Fgze8qKvV9i](https://giphy.com/gifs/salesforce-dPMUFe9TEA2ewJI5Ti)">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni2221&label=Profile%20views&color=0e75b6&style=flat" alt="ni2221" /> </p>
 
@@ -29,22 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni2221&show_icons=true&locale=en&layout=compact" alt="ni2221" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ni2221&show_icons=true&locale=en" alt="ni2221" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ni2221&" alt="ni2221" /></p>
-### Hi there 👋
 
-<!--
-**Ni2221/Ni2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
